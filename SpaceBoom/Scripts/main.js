@@ -12,7 +12,7 @@ function onLoad() {
 px = py = 10;
 
 tc = 40;
-
+xv=yv=0;
 // Everybody wants to score
 score = 0;
 
