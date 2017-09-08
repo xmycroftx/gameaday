@@ -30,9 +30,6 @@ function game() {
     ctx.fillStyle = "grey";
     ctx.fillRect(0, 0, canv.width, canv.height);
 
-    // apples
-    ctx.fillStyle = "red";
-    ctx.fillRect(ax * gs, ay * gs, gs - 2, gs - 2);
 
     // The Rocket
     var img = new Image();
