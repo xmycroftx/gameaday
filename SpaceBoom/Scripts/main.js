@@ -27,7 +27,7 @@ function game() {
     // gfx
 
     // background fill
-    ctx.fillStyle = "black";
+    ctx.fillStyle = "grey";
     ctx.fillRect(0, 0, canv.width, canv.height);
 
     // apples
